@@ -1,5 +1,5 @@
 # Git config
-When first setting up git, you'll need to work witht he git config commands in order to set up your idenity.
+When first setting up git, you'll need to work with he git config commands in order to set up your idenity.
 For example, your identity can be set up with the commands such as:
 ```
 git config --global user.name Gavin Ankney
